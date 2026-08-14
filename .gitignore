@@ -239,7 +239,6 @@ dmypy.json
 .env.local
 .env.*.local
 
-uploads/
 *.db
 *.sqlite3
 
